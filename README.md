@@ -6,7 +6,7 @@ Video Demo: https://youtu.be/A2vsEMgTOoc?si=qfHYmgl9CpXCKG91
 
  Programa de Gestió de Fitxers i Directoris 
 ___________________
-Visió General
+
 Aquest programa proporciona funcionalitats per gestionar i manipular fitxers i directoris en un camí donat. Permet als usuaris llistar fitxers de manera recursiva, cercar coincidències de paraules en fitxers de text i PDFs, i substituir paraules específiques en fitxers de text. El programa suporta opcions de sensibilitat a les majúscules i sensibilitat als accents.
 
   Característiques
